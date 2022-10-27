@@ -8,6 +8,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  base: "dist",
+  base: "resume-template",
   integrations: [solidJs(), tailwind()],
 });
