@@ -8,7 +8,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  root:".",
-  publicDir:"public",
+  base: "dist",
   integrations: [solidJs(), tailwind()],
 });
