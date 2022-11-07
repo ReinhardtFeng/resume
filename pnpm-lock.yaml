@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@astrojs/solid-js': ^1.1.1
   '@astrojs/tailwind': ^2.0.1
+  '@example/basics': 'link:'
   astro: ^1.5.2
   solid-js: ^1.6.0
   tailwindcss: ^3.2.1
@@ -10,6 +11,7 @@ specifiers:
 dependencies:
   '@astrojs/solid-js': 1.2.2_solid-js@1.6.1
   '@astrojs/tailwind': 2.1.2_tailwindcss@3.2.2
+  '@example/basics': 'link:'
   astro: 1.6.3
   solid-js: 1.6.1
   tailwindcss: 3.2.2
